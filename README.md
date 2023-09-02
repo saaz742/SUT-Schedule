@@ -10,7 +10,7 @@
     - General
 
 - Semester 2
-    - Advanced Programming
+    - [Advanced Programming](https://github.com/saaz742/Advanced-Programming)
     - Discrete Mathematics
     - Logic Circuit
     - Computer Workshop
@@ -67,7 +67,7 @@
     - General
 
 - Semester 8
-    - Natural Language Processing
+    - [Natural Language Processing](https://github.com/saaz742/NLP)
     - Software Engineering
     - Computer Networks Laboratory
     - General
