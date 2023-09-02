@@ -19,7 +19,7 @@
     - General
 
 - Semester 3
-    - Data Structure
+    - [Data Structure and Algorithms](https://github.com/saaz742/Data-Structures-and-Algorithms)
     - Computer structure and language
     - Electrical Circuit
     - Math 2
@@ -29,7 +29,7 @@
     - Logic Circuit Laboratory
 
 - Semester 4
-    - Design Algorithm
+    - [Design Algorithm](https://github.com/saaz742/Design-Algorithm)
     - Computer Architecture
     - Digital System Design
     - Programming Language Design
@@ -43,14 +43,14 @@
 - Semester 5
     - Database
     - Artificial Intelligence
-    - Linear Algebra
+    - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
     - Numeric Calculation
     - Scientific and Technical Materials Presentation
 
 - Semester 6
     - Information Retrieval
     - Operating Systems
-    - Computer Networks
+    - [Computer Networks](https://github.com/saaz742/Computer-Networks)
     - Automata
     - General
 
@@ -59,7 +59,7 @@
   - Internship
 
 - Semester 7
-    - Mobile Programming
+    - [Mobile Programming](https://github.com/saaz742/Mobile-Programming)
     - Computer Simulation
     - Computer Security
     - Analysis and design of systems
@@ -73,6 +73,6 @@
     - General
 
 - Summer
-    - Software Engineering Laboratory
+    - [Software Engineering Laboratory](https://github.com/saaz742/SE-Lab)
       
 - Semester 9
