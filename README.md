@@ -1,7 +1,7 @@
 # SUT-Schedule
 
 - Semester 1
-    - Basic Programming (Nothing Important)
+    - [Basic Programming (Nothing Important)]
     - Physics 1
     - Math 1
     - English
@@ -11,18 +11,18 @@
 
 - Semester 2
     - [Advanced Programming](https://github.com/saaz742/Advanced-Programming)
-    - [Discrete Mathematics]
-    - [Logic Circuit]
-    - [Computer Workshop]
+    - [Discrete Mathematics (Theory)]
+    - [Logic Circuit (Theory)]
+    - [Computer Workshop](https://github.com/saaz742/Computer-Workshop)
     - Physic 2
     - Sport 1
     - General
 
 - Semester 3
     - [Data Structure and Algorithms](https://github.com/saaz742/Data-Structures-and-Algorithms)
-    - [Computer structure and language]
-    - [Electrical Circuit]
-    - [Logic Circuit Laboratory]
+    - [Computer Structure and Language](https://github.com/saaz742/Computer-Structure-and-Language)
+    - [Electrical Circuit (Theory)]
+    - [Logic Circuit Laboratory](https://github.com/saaz742/Logic-Circuit-Laboratory)
     - English (for computer)
     - Math 2
     - Differential Equations
@@ -31,22 +31,22 @@
 
 - Semester 4
     - [Design Algorithm](https://github.com/saaz742/Design-Algorithm)
-    - [Computer Architecture]
-    - [Digital System Design]
-    - [Programming Language Design]
-    - [Statistics and Probability]
-    - [Digital System Design Laboratory]
+    - [Computer Architecture](https://github.com/saaz742/Computer-Architecture)
+    - [Digital System Design](https://github.com/saaz742/Digital-System-Design-DSD)
+    - [Programming Language Design](https://github.com/saaz742/Programming-Language-Design)
+    - [Statistics and Probability (Theory)]
+    - [Digital System Design Laboratory](https://github.com/saaz742/Digital-System-Design-Labratory-DSD-Lab)
     - General
 
 - Summer
-    - [Computer Architecture Laboratory]
+    - [Computer Architecture Laboratory](https://github.com/saaz742/Computer-Architecture-Labratory)
   
 - Semester 5
-    - [Database]
-    - [Artificial Intelligence]
+    - [Database](https://github.com/saaz742/Database)
+    - [Artificial Intelligence](https://github.com/saaz742/Artificial-Intelligence-AI)
     - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
-    - [Numeric Calculation]
-    - [Scientific and Technical Materials Presentation]
+    - [Numeric Calculation](https://github.com/saaz742/Numeric-Calculation)
+    - [Scientific and Technical Materials Presentation (Theory)]
 
 - Semester 6
     - [Modern Information Retrieval](https://github.com/saaz742/Modern-Information-Retrieval)
@@ -63,7 +63,7 @@
     - [Mobile Programming](https://github.com/saaz742/Mobile-Programming)
     - [Computer Simulation](https://github.com/saaz742/Computer-Simulation)
     - [Analysis and Design of Systems](https://github.com/saaz742/Analysis-and-Design-of-Systems)
-    - Computer Security (Only Final)
+    - [Computer Security (Only Final)]
     - Sport 2
     - General
 
@@ -78,3 +78,6 @@
     - [Software Engineering Laboratory](https://github.com/saaz742/SE-Lab)
       
 - Semester 9
+    - [Compiler](https://github.com/saaz742/Compiler)
+    - [E-Commerce](https://github.com/saaz742/E-Commerce)
+    - [Bachelor Project](https://github.com/saaz742/Bachelor-s-project)
