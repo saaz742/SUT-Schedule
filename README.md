@@ -46,6 +46,7 @@
     - [Artificial Intelligence](https://github.com/saaz742/Artificial-Intelligence-AI)
     - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
     - [Numeric Calculation](https://github.com/saaz742/Numeric-Calculation)
+    - [Embeded Systems]()
     - [Scientific and Technical Materials Presentation (Theory)]
 
 - Semester 6
