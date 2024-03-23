@@ -3,7 +3,7 @@
 - Semester 1
     - [Basic Programming (Nothing Important)]
     - Physics 1
-    - Math 1
+    - [Math 1](https://github.com/saaz742/Math-1)
     - English
     - Persian
     - Workshop
@@ -46,7 +46,7 @@
     - [Artificial Intelligence](https://github.com/saaz742/Artificial-Intelligence-AI)
     - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
     - [Numeric Calculation](https://github.com/saaz742/Numeric-Calculation)
-    - [Embeded Systems]()
+    - [Embeded Systems](https://github.com/saaz742/Embeded-Systems)
     - [Scientific and Technical Materials Presentation (Theory)]
 
 - Semester 6
