@@ -1,5 +1,4 @@
-# SUT-Schedule
-<code style="color : red">text</code>
+# <code style="color : lightskyblue"> SUT-Schedule </code>
 
 - Semester 1
     - [Basic Programming (Nothing Important)]
