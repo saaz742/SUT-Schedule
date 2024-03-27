@@ -22,7 +22,7 @@
     - [Data Structure and Algorithms](https://github.com/saaz742/Data-Structures-and-Algorithms)
     - [Computer Structure and Language](https://github.com/saaz742/Computer-Structure-and-Language)
     - [Electrical Circuit (Theory)]
-    - [<code style="color : red"> Logic Circuit Laboratory </code>](https://github.com/saaz742/Logic-Circuit-Laboratory)
+    - [<code style="color : red">Logic Circuit Laboratory </code>](https://github.com/saaz742/Logic-Circuit-Laboratory)
     - English (for computer)
     - Math 2
     - Differential Equations
