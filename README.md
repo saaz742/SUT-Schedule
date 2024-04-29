@@ -61,7 +61,7 @@
   - Internship
 
 - Semester 7
-    - [Mobile Programming](https://github.com/saaz742/Mobile-Programming)
+    - [Mobile Programming](https://github.com/saaz742/Mobile-Programming-Android-Swift)
     - [Computer Simulation](https://github.com/saaz742/Computer-Simulation)
     - [Analysis and Design of Systems](https://github.com/saaz742/Analysis-and-Design-of-Systems)
     - [Computer Security (Only Final)]
