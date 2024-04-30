@@ -47,7 +47,7 @@
     - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
     - [Numeric Calculation](https://github.com/saaz742/Numeric-Calculation)
     - [Embeded Systems](https://github.com/saaz742/Embeded-Systems)
-    - [Scientific and Technical Materials Presentation (Theory)](https://github.com/saaz742/Computer-Security)
+    - [Scientific and Technical Materials Presentation (Theory)]
 
 - Semester 6
     - [Modern Information Retrieval](https://github.com/saaz742/Modern-Information-Retrieval)
@@ -64,7 +64,7 @@
     - [Mobile Programming](https://github.com/saaz742/Mobile-Programming-Android-Swift)
     - [Computer Simulation](https://github.com/saaz742/Computer-Simulation)
     - [Analysis and Design of Systems](https://github.com/saaz742/Analysis-and-Design-of-Systems)
-    - [Computer Security (Only Final)]
+    - [Computer Security (Only Final)](https://github.com/saaz742/Computer-Security)
     - Sport 2
     - General
 
