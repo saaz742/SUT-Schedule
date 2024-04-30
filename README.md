@@ -47,7 +47,7 @@
     - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
     - [Numeric Calculation](https://github.com/saaz742/Numeric-Calculation)
     - [Embeded Systems](https://github.com/saaz742/Embeded-Systems)
-    - [Scientific and Technical Materials Presentation (Theory)]
+    - [Scientific and Technical Materials Presentation (Theory)](https://github.com/saaz742/Computer-Security)
 
 - Semester 6
     - [Modern Information Retrieval](https://github.com/saaz742/Modern-Information-Retrieval)
