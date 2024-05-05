@@ -12,7 +12,7 @@
 - Semester 2
     - [Advanced Programming](https://github.com/saaz742/Advanced-Programming)
     - [Discrete Mathematics (Theory)]
-    - [Logic Circuit (Theory)]
+    - [Logic Circuit (Theory)](https://github.com/saaz742/Logic-Circuit)
     - [Computer Workshop](https://github.com/saaz742/Computer-Workshop)
     - Physic 2
     - Sport 1
