@@ -11,7 +11,7 @@
 
 - Semester 2
     - [Advanced Programming](https://github.com/saaz742/Advanced-Programming)
-    - [Discrete Mathematics (Theory)]
+    - [Discrete Mathematics (Theory)](https://github.com/saaz742/Discrete-Mathematics)
     - [Logic Circuit (Theory)](https://github.com/saaz742/Logic-Circuit)
     - [Computer Workshop](https://github.com/saaz742/Computer-Workshop)
     - Physic 2
@@ -21,7 +21,7 @@
 - Semester 3
     - [Data Structure and Algorithms](https://github.com/saaz742/Data-Structures-and-Algorithms)
     - [Computer Structure and Language](https://github.com/saaz742/Computer-Structure-and-Language)
-    - [Electrical Circuit (Theory)]
+    - [Electrical Circuit (Theory)](https://github.com/saaz742/Electrical-Circuit)
     - [<code style="color : red">Logic Circuit Laboratory </code>](https://github.com/saaz742/Logic-Circuit-Laboratory)
     - English (for computer)
     - Math 2
