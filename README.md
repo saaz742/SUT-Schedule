@@ -22,11 +22,11 @@
     - [Data Structure and Algorithms](https://github.com/saaz742/Data-Structures-and-Algorithms)
     - [Computer Structure and Language](https://github.com/saaz742/Computer-Structure-and-Language)
     - [Electrical Circuit (Theory)](https://github.com/saaz742/Electrical-Circuit)
-    - [<code style="color : red">Logic Circuit Laboratory </code>](https://github.com/saaz742/Logic-Circuit-Laboratory)
+    - [<code style="color : red">**Logic Circuit Laboratory** </code>](https://github.com/saaz742/Logic-Circuit-Laboratory)
     - English (for computer)
     - Math 2
     - Differential Equations
-    - Physic Laboratory
+    - **Physic Laboratory**
     
 
 - Semester 4
@@ -35,11 +35,11 @@
     - [Digital System Design](https://github.com/saaz742/Digital-System-Design-DSD)
     - [Programming Language Design](https://github.com/saaz742/Programming-Language-Design)
     - [Statistics and Probability (Theory)]
-    - [<code style="color : red">Digital System Design Laboratory</code>](https://github.com/saaz742/Digital-System-Design-Labratory-DSD-Lab)
+    - [<code style="color : red">**Digital System Design Laboratory**</code>](https://github.com/saaz742/Digital-System-Design-Labratory-DSD-Lab)
     - General
 
 - Summer
-    - [<code style="color : red">Computer Architecture Laboratory</code>](https://github.com/saaz742/Computer-Architecture-Labratory)
+    - [<code style="color : red">**Computer Architecture Laboratory**</code>](https://github.com/saaz742/Computer-Architecture-Labratory)
   
 - Semester 5
     - [Database](https://github.com/saaz742/Database)
@@ -57,7 +57,7 @@
     - General
 
 - Summer
-  - [<code style="color : red">Operating Systems Laboratory</code>](https://github.com/saaz742/Operating-Systems-Laboratory)
+  - [<code style="color : red">**Operating Systems Laboratory**</code>](https://github.com/saaz742/Operating-Systems-Laboratory)
   - Internship
 
 - Semester 7
@@ -71,12 +71,12 @@
 - Semester 8
     - [Natural Language Processing](https://github.com/saaz742/NLP)
     - [Software Engineering](https://github.com/saaz742/Software-Enginnering)
-    - [<code style="color : red">Computer Networks Laboratory</code>](https://github.com/saaz742/Computer-Networks-Laboratory)
+    - [<code style="color : red">**Computer Networks Laboratory**</code>](https://github.com/saaz742/Computer-Networks-Laboratory)
     - General (P/F)
     - General
 
 - Summer
-    - [<code style="color : red">Software Engineering Laboratory</code>](https://github.com/saaz742/SE-Lab)
+    - [<code style="color : red">**Software Engineering Laboratory**</code>](https://github.com/saaz742/SE-Lab)
       
 - Semester 9
     - [Compiler](https://github.com/saaz742/Compiler)
