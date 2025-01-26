@@ -81,4 +81,4 @@
 - Semester 9
     - [Compiler](https://github.com/saaz742/Compiler)
     - [E-Commerce](https://github.com/saaz742/E-Commerce)
-    - [Bachelor Project](https://github.com/saaz742/Bachelor-s-project)
+    - [Bachelor Project](https://github.com/saaz742/Bachelors-Project)
