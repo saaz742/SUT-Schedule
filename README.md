@@ -14,7 +14,7 @@
     - [Discrete Mathematics (Theory)](https://github.com/saaz742/Discrete-Mathematics)
     - [Logic Circuit (Theory)](https://github.com/saaz742/Logic-Circuit)
     - [Computer Workshop](https://github.com/saaz742/Computer-Workshop)
-    - Physic 2
+    - Physics 2
     - Sport 1
     - General
 
@@ -37,6 +37,8 @@
     - [Statistics and Probability (Theory)]
     - [<code style="color : red">**Digital System Design Laboratory**</code>](https://github.com/saaz742/Digital-System-Design-Labratory-DSD-Lab)
     - General
+    - **TA:**
+        - Advanced Programming
 
 - Summer
     - [<code style="color : red">**Computer Architecture Laboratory**</code>](https://github.com/saaz742/Computer-Architecture-Labratory)
@@ -46,16 +48,20 @@
     - [Artificial Intelligence](https://github.com/saaz742/Artificial-Intelligence-AI)
     - [Linear Algebra](https://github.com/saaz742/Linear-algebra)
     - [Numeric Calculation](https://github.com/saaz742/Numeric-Calculation)
-    - [Embeded Systems](https://github.com/saaz742/Embeded-Systems)
-    - [Scientific and Technical Materials Presentation (Theory)]
+    - [Embedded Systems](https://github.com/saaz742/Embeded-Systems)
+    - [Scientific and Technical Materials Presentation (Theory)]()
+
 
 - Semester 6
-    - [Modern Information Retrieval](https://github.com/saaz742/Modern-Information-Retrieval)
+    - [Advanced Information Retrieval](https://github.com/saaz742/Modern-Information-Retrieval)
     - [Operating Systems](https://github.com/saaz742/Operating-Systems)
     - [Computer Networks](https://github.com/saaz742/Computer-Networks)
-    - [Automata](https://github.com/saaz742/Automata)
+    - [Theory of Machines and Languages(Automata)](https://github.com/saaz742/Automata)
     - General
-
+    - **TA:**
+        - Database
+        - Linear Algebra
+    
 - Summer
   - [<code style="color : red">**Operating Systems Laboratory**</code>](https://github.com/saaz742/Operating-Systems-Laboratory)
   - Internship
@@ -67,18 +73,39 @@
     - [Computer Security (Only Final)](https://github.com/saaz742/Computer-Security)
     - Sport 2
     - General
+    - **TA:**
+        - Advanced Information Retrieval
+        - Theory of Machines and Languages(Automata)
+        - Computer Networks
 
 - Semester 8
     - [Natural Language Processing](https://github.com/saaz742/NLP)
     - [Software Engineering](https://github.com/saaz742/Software-Enginnering)
+    - [E-Commerce](https://github.com/saaz742/E-Commerce)
     - [<code style="color : red">**Computer Networks Laboratory**</code>](https://github.com/saaz742/Computer-Networks-Laboratory)
     - General (P/F)
     - General
+    - **TA:**
+        - Advanced Information Retrieval
+        - Computer Networks
+        - Mobile Programming 
 
 - Summer
     - [<code style="color : red">**Software Engineering Laboratory**</code>](https://github.com/saaz742/SE-Lab)
       
 - Semester 9
     - [Compiler](https://github.com/saaz742/Compiler)
-    - [E-Commerce](https://github.com/saaz742/E-Commerce)
     - [Bachelor Project](https://github.com/saaz742/Bachelors-Project)
+    - **TA:**
+        - Natural Language Processing (Graduate Course)
+        - [Advanced Information Retrieval](https://github.com/saaz742/IMDb-IR-System)
+        - Computer Networks
+        - Software Engineering
+        - Data Structure and Algorithm
+        - E-Commerce
+ 
+- After
+   - **TA:**
+       - Natural Language Processing (Graduate Course)
+       - Advanced Information Retrieval
+       - [Compiler Design](https://github.com/saaz742/Materials)
